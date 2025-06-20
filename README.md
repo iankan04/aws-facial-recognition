@@ -1,5 +1,5 @@
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px;">
-<h1>MCP Spotify AI Assistant</h1>
+<h1>AWS Facial Recognition</h1>
 </div>
 
 A facial recognition interface using Amazon Rekognition to allow employees to sign in
@@ -9,6 +9,10 @@ A facial recognition interface using Amazon Rekognition to allow employees to si
 - [Setup](#setup)
   - [Installation](#installation)
 </details>
+
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+  <img width="1011" alt="Image" src="https://github.com/user-attachments/assets/2b1da529-a572-462e-b664-5291751c9b70" />
+</div>
 
 ## Setup
 
