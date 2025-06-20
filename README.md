@@ -2,7 +2,7 @@
 <h1>AWS Facial Recognition</h1>
 </div>
 
-A facial recognition interface using Amazon Rekognition to allow employees to sign in
+A facial recognition interface using Amazon Rekognition to allow employees to sign in. AWS S3, Lambda, API Gateway, and DynamoDB are used to integrate the system.
 
 <details>
 <summary>Contents</summary>
